@@ -56,17 +56,9 @@ int main(int argc, char* argv[])
 		{
 			cout << "Esc key is pressed by user. Stoppig the video" << endl;
 			break;
-		}
-		
-		
-	}
-	
-
-
-
-
-		
+		}		
+	}	
 	return 0;
 
 }
-
+ 
